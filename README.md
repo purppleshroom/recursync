@@ -6,7 +6,7 @@ https://github.com/jeffarese/recursync
 
 --check
 
-### Synclang sage
+### Synclang usage
 if movie has 3 langs You sync one with
 
 `python3 rsubsync.py --lang en --path ../`
